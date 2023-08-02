@@ -11,5 +11,5 @@ JavaScript, React, Node.js, Express, and MongoDB, constantly seeking to expand m
 💼 I'm currently pursuing an apprenticeship at ERA Solutions, a company that shares my passion for empowering
 Veterans in the tech industry and building meaningful websites and applications.
 
-📫 Let's connect! Feel free to reach out to me at [Your Email Address].
+📫 Let's connect! Feel free to reach out to me at Archer.Andrew.J@outlook.com.
 I'm always open to collaboration and learning from fellow developers.

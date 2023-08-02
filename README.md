@@ -6,7 +6,7 @@ and ensured the safety and alertness of my team members throughout the deploymen
 These experiences reinforced my belief in the value of teamwork, communication, and adaptability.
 
 🚀 As a developer, I love diving into front-end and back-end technologies and exploring innovative solutions. I'm currently immersed in the world of
-JavaScript, React, Node.js, Express, and MongoDB, constantly seeking to expand my skill set and contribute to impactful projects.
+JavaScript, React, Node.js, Express, and MySQL, constantly seeking to expand my skill set and contribute to impactful projects.
 
 💼 I'm currently pursuing an apprenticeship at ERA Solutions, a company that shares my passion for empowering
 Veterans in the tech industry and building meaningful websites and applications.

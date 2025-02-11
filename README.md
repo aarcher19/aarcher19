@@ -1,4 +1,4 @@
-- ### Hi there, I'm Andrew Archer 👋
+## Hi there, I'm Andrew Archer 👋
 
 I’m a Full Stack Developer with a background in military leadership and a strong passion for building scalable, impactful software. After five years of leading teams in high-pressure environments, including a combat deployment, I developed a deep appreciation for teamwork, discipline, and adaptability—qualities I bring to my development work.
 
